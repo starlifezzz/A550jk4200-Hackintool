@@ -1,4 +1,4 @@
-# A550JK 4200H-macos-Ventura
+# A550JK 4200H-MacOs-Ventura
 
 A5500JK 4200H  
 CPU: I5 4200H  
