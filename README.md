@@ -29,5 +29,3 @@ cpu变频   ✅
 蓝牙      ✅  
 wifi     ✅  
 有线网卡  ✅   
-
-image.png
