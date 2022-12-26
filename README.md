@@ -2,6 +2,7 @@
 
 A5500JK 4200H  
 CPU: I5 4200H  
+GPU：HD4600
 Memory: 8G DDR3 1600Mhz  
 intel 8265AC
 
