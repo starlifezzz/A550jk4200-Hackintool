@@ -13,7 +13,9 @@ intel 8265AC
 更新oc -> OC 0.87   
 更新kext  
 原无线网卡替换intel网卡  
-添加ausu电源管理，键盘支持原生快捷  
+添加ausu电源管理，键盘支持原生快捷 
+
+可支持升级Ventura，但因为ventura中删除了相关显卡驱动，请自行下载opencore-pather 进行显卡驱动修补  https://github.com/dortania/OpenCore-Legacy-Patcher  
 
 注意： 
 1. 已经删除原有win引导，请自行用efi引导软件重新建立引导  
