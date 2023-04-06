@@ -1122,13 +1122,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02804902GUGDQPCB</string>
+                <string>C028332004NGDQPUE</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>NXpiL2Df</data>
+                <data>7XZe/twc</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1136,9 +1136,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro11,4</string>
                 <key>SystemSerialNumber</key>
-                <string>C02W50UAG8WN</string>
+                <string>C02X706CG8WN</string>
                 <key>SystemUUID</key>
-                <string>87E3BAD9-3EFF-4260-9B91-C2193C96614C</string>
+                <string>4BF833BF-3B86-4890-AF5F-02B6C32AE15A</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
