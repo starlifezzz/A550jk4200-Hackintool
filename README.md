@@ -8,7 +8,7 @@ intel 8265AC
 
 
 支持版本 10.15.7-13  
-
+提供intel/Broadcom下载
 
 upload date 2023-04-06 重新上传  
 Update Opencore 0.8.8 -> OC 0.9.1   
@@ -17,6 +17,8 @@ Update Opencore 0.8.8 -> OC 0.9.1
 添加ausu电源管理，键盘支持原生快捷键
 增加重置nvrm，修改sip快捷功能（引导界面操作）
 Disable DGpu
+
+手上没有博通网卡故无法测试，但也提供了EFI请自行测试详见https://github.com/starlifezzz/A550jk4200-Hackintool/tree/Broadcom
 
 可支持升级Ventura，但因为ventura中删除了相关显卡驱动，请自行下载opencore-pather 进行显卡驱动修补  https://github.com/dortania/OpenCore-Legacy-Patcher 
 注意： 
