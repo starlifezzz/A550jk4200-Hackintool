@@ -13,6 +13,7 @@ intel 8265AC
 更新日志:  
 2023-04-06 重新上传  
 Update Opencore 0.8.8 -> OC 0.9.1
+ 
 更新kext  
 原无线网卡替换intel网卡  
 添加ausu电源管理，键盘支持原生快捷键
