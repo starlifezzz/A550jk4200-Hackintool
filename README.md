@@ -10,16 +10,9 @@ intel 8265AC
 支持版本 10.15.7-13  
 提供intel/Broadcom下载
 
-<<<<<<< HEAD
-更新日志:  
-2023-04-06 重新上传  
-Update Opencore 0.8.8 -> OC 0.9.1
- 
-=======
 
 upload date 2023-04-06 重新上传  
 Update Opencore 0.8.8 -> OC 0.9.1
->>>>>>> 7d06226b04c5deee6c6254096796ac17cd81e683
 更新kext  
 原无线网卡替换intel网卡  
 添加ausu电源管理，键盘支持原生快捷键
