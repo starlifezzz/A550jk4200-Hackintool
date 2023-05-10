@@ -11,6 +11,9 @@ intel 8265AC
 提供intel/Broadcom下载
 
 更新日志:  
+2023-05-10 上传  
+Update Opencore 0.9.1 -> OC 0.9.2
+
 2023-04-06 重新上传  
 Update Opencore 0.8.8 -> OC 0.9.1
 更新kext  
