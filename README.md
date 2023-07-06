@@ -13,7 +13,7 @@ intel 8265AC
 更新日志:  
 2023-07-06 上传  
 Update Opencore 0.9.2 -> OC 0.9.3;
-解锁usb限制，重新构建usb端口;
+解锁usb限制，重新构建usb端口; 
 
 2023-05-10 上传  
 Update Opencore 0.9.1 -> OC 0.9.2;
