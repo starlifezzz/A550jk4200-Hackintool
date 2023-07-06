@@ -11,11 +11,15 @@ intel 8265AC
 提供intel/Broadcom下载
 
 更新日志:  
+2023-07-06 上传  
+Update Opencore 0.9.2 -> OC 0.9.3;
+解锁usb限制，重新构建usb端口;
+
 2023-05-10 上传  
-Update Opencore 0.9.1 -> OC 0.9.2
+Update Opencore 0.9.1 -> OC 0.9.2;
 
 2023-04-06 重新上传  
-Update Opencore 0.8.8 -> OC 0.9.1
+Update Opencore 0.8.8 -> OC 0.9.1;
 更新kext  
 原无线网卡替换intel网卡  
 添加ausu电源管理，键盘支持原生快捷键
